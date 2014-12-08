@@ -14,7 +14,8 @@ layout:
 
     <div class="section" id="about">
       <div class="container">
-        {% include about.html %}
+        {% capture about %}{% include about.md %}{% endcapture %}
+        {{ about | markdownify }}
       </div>
     </div>
 
