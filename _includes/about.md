@@ -3,7 +3,7 @@
 <div class="row" markdown="1">
 <div class="col-sm-8" markdown="1">
 
-My name is Karissa Lightsmith. In 2010, I started [Lighthouse Montessori](http://lighthousemontessori.com) and I this is my next step.
+My name is Karissa Lightsmith. In 2010, I started [Lighthouse Montessori](http://lighthousemontessori.com) and this is my next step.
 
 Montessori is an oral tradition and must keep growing if it is to flourish. So let's get together and share what we do!
 
