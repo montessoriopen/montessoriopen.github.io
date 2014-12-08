@@ -1,0 +1,103 @@
+---
+layout: 
+---
+$light-gray: #eee;
+
+header {
+  background-image: url(/img/header-bg.jpg);
+  background-position: center center;
+  background-size: cover;
+  height: 700px;
+
+  .intro-text {
+    margin: 200px 0 0 -1000px;
+    padding: 10px 20px 20px 1000px;    
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+    display: inline-block;
+
+    .intro-heading {
+      font-size: 22px;
+      color: #ddd;
+    }
+
+    h1 {
+      margin-top: 0;
+      font-size: 50px;
+    }
+
+    .call-to-action .btn {
+      margin-top: 5px;
+      margin-right: 10px;
+      font-size: 20px;
+    }
+  }
+}
+
+.sponsor-strip {
+  background: repeat-x #aaa;
+  text-align: center;
+  padding: 15px 0;
+  a {
+    margin: 0px 10px;
+    img {
+      height: 30px;
+    }
+  }
+}
+
+.section {
+  h2 {
+    margin: 60px 0 20px;
+    font-size: 3em;
+    text-align: center;
+  }
+  &#about {
+
+  }
+  &#conference {
+    background: $light-gray;
+    background-image: url(/img/infinite-beads-black.jpg);
+    color: white;
+    background-position: center center;
+    background-size: cover;
+    table.table {
+      color: black;
+      background: white;
+    }
+  }
+  &#coffee {
+  }   
+  &#online {
+    background: $light-gray;
+  }
+}
+
+footer {
+  background-color: #222;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 100px;
+  color: #ddd;
+  .copyright {
+  }
+}
+
+/* big numbers in an ordered list */
+ol {
+  counter-reset: li;
+  > li {
+    position: relative;
+    list-style: none;
+    margin: 30px 0;
+
+    &:before {
+      content: counter(li);
+      counter-increment: li;
+      position: absolute;
+      left: -40px;
+      top: -16px;
+      font-size: 50px;
+    }
+  }
+}
