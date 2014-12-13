@@ -1,2 +1,1 @@
-<a href="http://lighthousemontessori.com/"><img src="/img/sponsors/lighthousemontessori.png"></a>
-<a href="http://transparentclassroom.com/"><img src="/img/sponsors/transparentclassroom.png"></a>
+{% for sponsor in page.sponsors %} <a href="{{ sponsor.url }}}"><img src="/img/sponsors/{{ sponsor.img }}"></a> {% endfor %}

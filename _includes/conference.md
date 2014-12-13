@@ -1,4 +1,5 @@
-## Conference
+Conference
+----------
 
 We all know that the best part of conferences are the breaks, when you get to talk to your friends about stories, problems, and joys. This conference is designed to be 2 full days of just that!
 
@@ -13,6 +14,7 @@ First we'll get together in a circle and people (that's you) will announce the s
 #### Friday, May ?
 
 |6:00p - 8:00p|Pre-conference reception @ ???|
+{: class="table table-striped table-condensed"}
 
 #### Saturday, May ?
 
@@ -26,6 +28,7 @@ First we'll get together in a circle and people (that's you) will announce the s
 |3:20p - 4:20p   |Session 5                                 |
 |4:30p - 5:00p   |Evening News &amp; Daily Reports Plenary  |
 |5:30p - 7:30p   |Conference Dinner &amp; Social            |
+{: class="table table-striped table-condensed"}
 
 #### Sunday, May ?
 
@@ -37,3 +40,4 @@ First we'll get together in a circle and people (that's you) will announce the s
 |12:30p - 1:30p  |Session 8                                |
 |1:40p - 2:40p   |Session 9                                |
 |2:50p - 4:00p   |Conference Closing Plenary Session       |
+{: class="table table-striped table-condensed"}
