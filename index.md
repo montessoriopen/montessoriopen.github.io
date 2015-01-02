@@ -31,7 +31,6 @@ sponsors:
 
 <div class="section" id="about">
 <div class="container">
-
 {% include about.md %}
 </div>
 </div>
