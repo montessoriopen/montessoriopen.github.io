@@ -45,11 +45,11 @@ Let's get together and share what we do!
 
 I am commited to seeing this work happen in my home and around the world. To see this happen I need your help! If you're passionate about this and want to help, I would love you to be involved in anyway that fits your availability and interest. You might
 
-1. Attend any of these events!
-2. Host a social event during the conference weekend
-3. Tell fellow Montessorians about these gatherings
-4. Host a Lean Coffee Conversation
-5. Co-organize aspects of the Open Space conference with me
+- Attend any of these events!
+- Host a social event during the conference weekend
+- Tell fellow Montessorians about these gatherings
+- Host a Lean Coffee Conversation
+- Co-organize aspects of the Open Space conference with me
 
 Please [let me know](mailto:karissa@lighthousemontessori.com)!
 
