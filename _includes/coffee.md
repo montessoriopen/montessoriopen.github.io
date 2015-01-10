@@ -1,7 +1,7 @@
 Coffee Conversations
 --------------------
 
-We want to create a more cohesive Montessori community here in the Northwest. To that end, we'll be holding "coffee conversations" in both Seattle and Portland, leadingn up to our conference.
+For the Montessori community of practice, we want to offer more opportunities to share our delights and our struggles, to see people who are working passionately and get in a good laugh, to debate real issues and get real help. Our goal is to go past connecting at big events, to go deeper than social get-togethers, to root and inspire our practice in local Montessori conspirators.  To that end, we'll be holding "coffee conversations" in both Seattle and Portland. The first few coffess will lead up to our conference. After you attend one, you may be tempted to bring this format back to your own school too!
 
 ### Upcoming coffees
 
