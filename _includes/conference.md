@@ -1,7 +1,7 @@
 Conference
 ----------
 
-Have you had the experience of going to a big conference, only to discover that the times you have your best ideas and inspirations are the breaks? The times when you get to talk to your friends about stories, problems, and joys stick with us. This conference is designed to be entirely made up of those types of experiences!
+Have you had the experience of going to a big conference, only to discover that the times you have your best ideas and inspirations are the breaks? The times when you get to talk to your friends about stories, problems, and joys are often the most meaningful of all. This conference is designed to be entirely made up of those types of experiences!
 
 ### How will it work?
 
