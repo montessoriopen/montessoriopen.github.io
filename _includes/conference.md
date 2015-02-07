@@ -1,7 +1,7 @@
 Conference
 ----------
 
-We all know that the best part of conferences are the breaks, when you get to talk to your friends about stories, problems, and joys. This conference is designed to be 2 full days of just that!
+Have you had the experience of going to a big conference, only to discover that the times you have your best ideas and inspirations are the breaks? The times when you get to talk to your friends about stories, problems, and joys stick with us. This conference is designed to be entirely made up of those types of experiences!
 
 ### How will it work?
 
@@ -11,33 +11,27 @@ First we'll get together in a circle and people (that's you) will announce the s
 
 ### Schedule
 
-#### Friday, May ?
+#### Friday, May 22nd
 
 |6:00p - 8:00p|Pre-conference reception @ ???|
 {: class="table table-striped table-condensed"}
 
-#### Saturday, May ?
+#### Saturday, May 23rd 
+At Kakoa, 415 Westlake Ave N, Seattle
 
 |8:00a - 8:30a   |Registration &amp; Continental Breakfast  |
-|8:30a - 9:45a   |Welcome, Introductions, &amp; Opening     |
-|10:00a - 11:00a |Session 1                                 |
-|11:10a - 12:10p |Session 2                                 |
-|12:20p - 1:00p  |Lunch                                     |
-|1:00p - 2:00p   |Session 3                                 |
-|2:10p - 3:10p   |Session 4 (afternoon beverages available) |
-|3:20p - 4:20p   |Session 5                                 |
-|4:30p - 5:00p   |Evening News &amp; Daily Reports Plenary  |
-|5:30p - 7:30p   |Conference Dinner &amp; Social            |
+|8:30a - 9:30a   |Welcome, Introductions, &amp; Opening     |
+|9:45a - 10:45a |Session 1                                 |
+|10:55a - 11:55p |Session 2                                 |
+|12:00p - 12:40p  |Lunch                                     |
+|12:40p - 1:40p   |Session 3                                 |
+|1:50p - 2:50p   |Session 4 (afternoon beverages available) |
+|3:00p - 4:00p   |Evening News &amp; Daily Reports Plenary  |
+
+|5:30p - 7:30p   |Conference Dinner &amp; Social @ TBD            |
 {: class="table table-striped table-condensed"}
 
-#### Sunday, May ?
+#### Sunday, May 24th
 
-|8:00a - 9:00a   |(optional) Lean Coffee &amp; Continental |
-|9:00a - 9:30a   |Morning Announcement Plenary             |
-|9:30a - 10:30a  |Session 6                                |
-|10:40a - 11:40a |Session 7                                |
-|11:40a - 12:30p |Lunch                                    |
-|12:30p - 1:30p  |Session 8                                |
-|1:40p - 2:40p   |Session 9                                |
-|2:50p - 4:00p   |Conference Closing Plenary Session       |
-{: class="table table-striped table-condensed"}
+|9:00a - 10:30a   |Lean Coffee &amp; Continental @ TBD|
+
