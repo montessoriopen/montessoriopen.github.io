@@ -9,7 +9,7 @@ coffees:
 - when: Saturday, Feb 21st 2015
   where: Portland, TBA
 - when: Saturday, Feb 28th 2015
-  where: Seattle, TBA
+  where: Lighthouse Montessori, Ballard, Seattle
 - when: March 2015
   where: Seattle, TBA
 - when: April 2015
