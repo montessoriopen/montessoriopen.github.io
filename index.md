@@ -8,10 +8,10 @@ coffees:
   rsvp: https://www.eventbrite.com/e/montessori-coffee-conversations-tickets-14838395039
 - when: Saturday, Feb 21st 2015
   where: Portland, TBA
-- when: Saturday, Feb 28th 2015
+- when: Saturday, Feb 28th 2015, 10-11:30am
   where: Lighthouse Montessori, Ballard, Seattle
-- when: March 2015
-  where: Seattle, TBA
+- when: Saturday, March 28th 2015, 10-11:30a
+  where: Tacoma, Community Montessori
 - when: April 2015
   where: Seattle,  TBA
 - when: April 2015
