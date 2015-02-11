@@ -11,7 +11,7 @@ coffees:
 - when: Saturday, Feb 28th 2015, 10-11:30am
   where: Lighthouse Montessori, Ballard, Seattle
 - when: Saturday, March 28th 2015, 10-11:30a
-  where: Tacoma, Community Montessori
+  where: Tacoma, Community Montessori, 10-11:30sm
 - when: April 2015
   where: Seattle,  TBA
 - when: April 2015
