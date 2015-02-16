@@ -40,12 +40,15 @@ At Kakoa, 415 Westlake Ave N, Seattle
 
 |9:00a - 10:30a   |Lean Coffee &amp; Continental @ TBD|
 
-
-
+<br/>
+<br/>
 
 <div align="center">
 <a href="http://montessoriopen2015.eventbrite.com" class="btn btn-lg btn-primary">Register</a>
 </div>
 
+<br/>
+<br/>
+<br/>
 
 
