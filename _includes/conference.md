@@ -5,6 +5,8 @@ Have you had the experience of going to a big conference, only to discover that 
 
 -> <a href="http://montessoriopen2015.eventbrite.com" class="btn btn-lg btn-primary">Register</a> <-
 
+-> foo <-
+
 ### How will it work?
 
 We'll be using Open Space Technology to hold this conference. What does that look like?
