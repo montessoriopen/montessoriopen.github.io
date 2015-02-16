@@ -3,9 +3,7 @@ Conference
 
 Have you had the experience of going to a big conference, only to discover that the times you have your best ideas and inspirations are the breaks? The times when you get to talk to your friends about stories, problems, and joys are often the most meaningful of all. This conference is designed to be entirely made up of those types of experiences!
 
--> <a href="http://montessoriopen2015.eventbrite.com" class="btn btn-lg btn-primary">Register</a> <-
-
-->foo<-
+<div align="center"><a href="http://montessoriopen2015.eventbrite.com" class="btn btn-lg btn-primary">Register</a></div>
 
 ### How will it work?
 
@@ -25,10 +23,10 @@ At Kakoa, 415 Westlake Ave N, Seattle
 
 |8:00a - 8:30a   |Registration &amp; Continental Breakfast  |
 |8:30a - 9:30a   |Welcome, Introductions, &amp; Opening     |
-|9:45a - 10:45a |Session 1                                 |
+|9:45a - 10:45a  |Session 1                                 |
 |10:55a - 11:55p |Session 2                                 |
-|12:00p - 12:40p  |Lunch                                     |
-|12:40p - 1:40p   |Session 3                                 |
+|12:00p - 12:40p |Lunch                                     |
+|12:40p - 1:40p  |Session 3                                 |
 |1:50p - 2:50p   |Session 4 (afternoon beverages available) |
 |3:00p - 4:00p   |Evening News &amp; Daily Reports Plenary  |
 
@@ -39,4 +37,4 @@ At Kakoa, 415 Westlake Ave N, Seattle
 
 |9:00a - 10:30a   |Lean Coffee &amp; Continental @ TBD|
 
--> <a href="http://montessoriopen2015.eventbrite.com" class="btn btn-lg btn-primary">Register</a> <-
+<div align="center"><a href="http://montessoriopen2015.eventbrite.com" class="btn btn-lg btn-primary">Register</a></div>
