@@ -3,6 +3,8 @@ Conference
 
 Have you had the experience of going to a big conference, only to discover that the times you have your best ideas and inspirations are the breaks? The times when you get to talk to your friends about stories, problems, and joys are often the most meaningful of all. This conference is designed to be entirely made up of those types of experiences!
 
+<a href="http://montessoriopen2015.eventbrite.com" class="btn btn-lg btn-default">Register</a>
+
 ### How will it work?
 
 We'll be using Open Space Technology to hold this conference. What does that look like?
@@ -35,3 +37,4 @@ At Kakoa, 415 Westlake Ave N, Seattle
 
 |9:00a - 10:30a   |Lean Coffee &amp; Continental @ TBD|
 
+<a href="http://montessoriopen2015.eventbrite.com" class="btn btn-lg btn-default">Register</a>
