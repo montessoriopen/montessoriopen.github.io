@@ -5,7 +5,7 @@ Have you had the experience of going to a big conference, only to discover that 
 
 -> <a href="http://montessoriopen2015.eventbrite.com" class="btn btn-lg btn-primary">Register</a> <-
 
--> foo <-
+->foo<-
 
 ### How will it work?
 
