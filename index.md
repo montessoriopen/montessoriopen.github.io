@@ -6,7 +6,7 @@ coffees:
 - when: Saturday, Jan 24th 2015, 10-11:30a 
   where: Seattle, Greenwood Chocolati
   rsvp: https://www.eventbrite.com/e/montessori-coffee-conversations-tickets-14838395039
-- when: Saturday, Feb 21st 2015, 10-11:30am
+- when: Sunday, Feb 22nd 2015, 10-11:30am
   where: Portland, Coava Coffee, 1300 SE Grand Ave
   rsvp: https://www.eventbrite.com/e/montessori-coffee-conversations-tickets-15807045298
 - when: Saturday, Feb 28th 2015, 10-11:30am
