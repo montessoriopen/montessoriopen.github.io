@@ -6,12 +6,15 @@ coffees:
 - when: Saturday, Jan 24th 2015, 10-11:30a 
   where: Seattle, Greenwood Chocolati
   rsvp: https://www.eventbrite.com/e/montessori-coffee-conversations-tickets-14838395039
-- when: Saturday, Feb 21st 2015
-  where: Portland, TBA
+- when: Saturday, Feb 21st 2015, 10-11:30am
+  where: Portland, Coava Coffee, 1300 SE Grand Ave
+- rsvp: https://www.eventbrite.com/e/montessori-coffee-conversations-tickets-15807045298
 - when: Saturday, Feb 28th 2015, 10-11:30am
   where: Lighthouse Montessori, Ballard, Seattle
+- rsvp: https://www.eventbrite.com/e/montessori-coffee-conversations-seattle-february-tickets-15807073382
 - when: Saturday, March 28th 2015, 10-11:30a
   where: Tacoma, Community Montessori, 10-11:30sm
+- rsvp: https://www.eventbrite.com/e/montessori-coffee-conversations-seattle-march-tickets-15807105478
 - when: April 2015
   where: Seattle,  TBA
 - when: April 2015
