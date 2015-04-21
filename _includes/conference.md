@@ -16,12 +16,12 @@ First we'll get together in a circle and people (that's you) will announce the s
 
 ### Schedule
 
-#### Friday, May 22nd
+#### Friday, October 9, 2015
 
 |6:00p - 8:00p|Pre-conference reception @ ???|
 {: class="table table-striped table-condensed"}
 
-#### Saturday, May 23rd 
+#### Saturday, October 10, 2015
 At Kakoa, 415 Westlake Ave N, Seattle
 
 |8:00a - 8:30a   |Registration &amp; Continental Breakfast  |
@@ -36,7 +36,7 @@ At Kakoa, 415 Westlake Ave N, Seattle
 |5:30p - 7:30p   |Conference Dinner &amp; Social @ TBD            |
 {: class="table table-striped table-condensed"}
 
-#### Sunday, May 24th
+#### Sunday, October 11, 2015
 
 |9:00a - 10:30a   |Lean Coffee &amp; Continental @ TBD|
 
